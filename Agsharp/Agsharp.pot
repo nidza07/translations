@@ -1,20 +1,15 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the Agsharp package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Agsharp\n"
 "Report-Msgid-Bugs-To: contact@sooslandia.ru\n"
-"POT-Creation-Date: 2025-03-06 16:21+0000\n"
+"POT-Creation-Date: 2025-08-13 21:12+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgctxt "AudioForms_ButtonControlName"
@@ -116,127 +111,12 @@ msgctxt "AudioForms_TreeControlExpanded"
 msgid "expanded"
 msgstr ""
 
-#, python-brace-format
 msgctxt "AudioForms_TreeControlLevel"
 msgid "level {0}"
 msgstr ""
 
 msgctxt "AudioForms_TreeControlName"
 msgid "tree"
-msgstr ""
-
-msgctxt "KeyMapConfiguratorInterface_ActionsTreeText"
-msgid "Actions"
-msgstr ""
-
-msgctxt "KeyMapConfiguratorInterface_AddButtonText"
-msgid "Add"
-msgstr ""
-
-msgctxt "KeyMapConfiguratorInterface_AddKeyShortcutButtonText"
-msgid "Add control"
-msgstr ""
-
-msgctxt "KeyMapConfiguratorInterface_AddKeyShortcutError"
-msgid ""
-"Failed to add a control. You may be trying to add a duplicate to the "
-"configuration."
-msgstr ""
-
-msgctxt "KeyMapConfiguratorInterface_AddKeyShortcutSuccess"
-msgid "Control added."
-msgstr ""
-
-msgctxt "KeyMapConfiguratorInterface_CancelButtonText"
-msgid "Cancel"
-msgstr ""
-
-msgctxt "KeyMapConfiguratorInterface_CloseButtonText"
-msgid "Close"
-msgstr ""
-
-msgctxt "KeyMapConfiguratorInterface_DeleteKeyShortcutButtonText"
-msgid "Delete control"
-msgstr ""
-
-msgctxt "KeyMapConfiguratorInterface_KeyCatcherControlCatching"
-msgid "Press the key you want to add to the control."
-msgstr ""
-
-msgctxt "KeyMapConfiguratorInterface_KeyCatcherControlKeyReset"
-msgid "Key reset"
-msgstr ""
-
-#, python-brace-format
-msgctxt "KeyMapConfiguratorInterface_KeyCatcherControlKeySet"
-msgid "Key {0} set."
-msgstr ""
-
-msgctxt "KeyMapConfiguratorInterface_KeyCatcherControlName"
-msgid "Press enter here to set the key."
-msgstr ""
-
-#, python-brace-format
-msgctxt "KeyMapConfiguratorInterface_KeyCatcherControlNameChange"
-msgid "Key {0} set. Press Enter to change or del to reset."
-msgstr ""
-
-msgctxt "KeyMapConfiguratorInterface_KeyConfigureTitle"
-msgid "Controls configurator."
-msgstr ""
-
-msgctxt "KeyMapConfiguratorInterface_KeyConfigureTitleWithHint"
-msgid ""
-"Controls configurator. Use tab and shift+tab to move forwards and backwards "
-"on the screen. Use the up and down arrows to move through lists and trees. "
-"To activate the selected item, press enter."
-msgstr ""
-
-msgctxt "KeyMapConfiguratorInterface_KeyShortcutAddTitle"
-msgid "Add control."
-msgstr ""
-
-msgctxt "KeyMapConfiguratorInterface_KeyShortcutAddTitleWithHint"
-msgid ""
-"Add control. Use tab and shift+tab to move forwards and backwards on the "
-"screen. Use the up and down arrows to move through the lists. To activate "
-"the selected item, press enter."
-msgstr ""
-
-msgctxt "KeyMapConfiguratorInterface_ModifierListAlt"
-msgid "alt key"
-msgstr ""
-
-msgctxt "KeyMapConfiguratorInterface_ModifierListAny"
-msgid "Any"
-msgstr ""
-
-msgctxt "KeyMapConfiguratorInterface_ModifierListCtrl"
-msgid "Ctrl key"
-msgstr ""
-
-msgctxt "KeyMapConfiguratorInterface_ModifierListLeft"
-msgid "Left"
-msgstr ""
-
-msgctxt "KeyMapConfiguratorInterface_ModifierListRight"
-msgid "Right"
-msgstr ""
-
-msgctxt "KeyMapConfiguratorInterface_ModifierListShift"
-msgid "Shift key"
-msgstr ""
-
-msgctxt "KeyMapConfiguratorInterface_ModifierListUnused"
-msgid "Not used"
-msgstr ""
-
-msgctxt "KeyMapConfiguratorInterface_ModifierListWin"
-msgid "Windows key"
-msgstr ""
-
-msgctxt "KeyMapConfiguratorInterface_ShortcutsListText"
-msgid "Controls"
 msgstr ""
 
 msgctxt "Keys_APOSTROPHE"
@@ -483,6 +363,118 @@ msgctxt "Keys_VOLUMEUP"
 msgid "volume up"
 msgstr ""
 
+msgctxt "KeyMapConfiguratorInterface_ActionsTreeText"
+msgid "Actions"
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_AddButtonText"
+msgid "Add"
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_AddKeyShortcutButtonText"
+msgid "Add control"
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_AddKeyShortcutError"
+msgid ""
+"Failed to add a control. You may be trying to add a duplicate to the "
+"configuration."
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_AddKeyShortcutSuccess"
+msgid "Control added."
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_CancelButtonText"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_CloseButtonText"
+msgid "Close"
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_DeleteKeyShortcutButtonText"
+msgid "Delete control"
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_KeyCatcherControlCatching"
+msgid "Press the key you want to add to the control."
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_KeyCatcherControlKeyReset"
+msgid "Key reset"
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_KeyCatcherControlKeySet"
+msgid "Key {0} set."
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_KeyCatcherControlName"
+msgid "Press enter here to set the key."
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_KeyCatcherControlNameChange"
+msgid "Key {0} set. Press Enter to change or del to reset."
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_KeyConfigureTitle"
+msgid "Controls configurator."
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_KeyConfigureTitleWithHint"
+msgid ""
+"Controls configurator. Use tab and shift+tab to move forwards and backwards "
+"on the screen. Use the up and down arrows to move through lists and trees. "
+"To activate the selected item, press enter."
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_KeyShortcutAddTitle"
+msgid "Add control."
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_KeyShortcutAddTitleWithHint"
+msgid ""
+"Add control. Use tab and shift+tab to move forwards and backwards on the "
+"screen. Use the up and down arrows to move through the lists. To activate "
+"the selected item, press enter."
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_ModifierListAlt"
+msgid "alt key"
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_ModifierListAny"
+msgid "Any"
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_ModifierListCtrl"
+msgid "Ctrl key"
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_ModifierListLeft"
+msgid "Left"
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_ModifierListRight"
+msgid "Right"
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_ModifierListShift"
+msgid "Shift key"
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_ModifierListUnused"
+msgid "Not used"
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_ModifierListWin"
+msgid "Windows key"
+msgstr ""
+
+msgctxt "KeyMapConfiguratorInterface_ShortcutsListText"
+msgid "Controls"
+msgstr ""
+
 msgctxt "RecordingPlayerScreenInterface_Loaded"
 msgid "Ready."
 msgstr ""
@@ -490,8 +482,8 @@ msgstr ""
 msgctxt "RecordingPlayerScreenInterface_LoadedWithHint"
 msgid ""
 "Ready. To start playback, press Spacebar. Press spacebar to pause and "
-"unpause playback. To rewind by 5 seconds, use the left and right arrow keys. "
-"Rewind by 30 seconds using the arrow keys while holding down the ctrl key. "
+"unpause playback. To rewind by 5 seconds, use the left and right arrow keys."
+" Rewind by 30 seconds using the arrow keys while holding down the ctrl key. "
 "To exit the player, press escape."
 msgstr ""
 
@@ -528,7 +520,6 @@ msgctxt "RecordingPlayerScreenInterface_Time"
 msgid "{0} / {1}"
 msgstr ""
 
-#, python-brace-format
 msgctxt "RecordingPlayerScreenInterface_Volume"
 msgid "Volume {0}%"
 msgstr ""
